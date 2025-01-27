@@ -1,1 +1,0 @@
-const a={name:"games",label:"游戏工具",icon:"gamepad",children:[{name:"leitingzhanji",label:"雷霆战机工具",icon:"app"},{name:"mihoyo-ys",label:"原神工具",icon:"app"},{name:"mihoyo-sr",label:"星穹铁道工具",icon:"app"},{name:"mihoyo-zzz",label:"绝区零工具",icon:"app"},{name:"more-gaming-tools",label:"更多游戏工具",icon:"ellipsis"}]};export{a as b};
