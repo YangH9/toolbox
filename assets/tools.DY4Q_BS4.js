@@ -1,0 +1,1 @@
+const e={name:"tools",label:"工具",icon:"tools",children:[{name:"fruit-vegetable",label:"果蔬价格文案",icon:"chinese-cabbage"},{name:"video-watermarking",label:"短视频去水印",icon:"video"},{name:"calendar",label:"万年历",icon:"calendar-1"},{name:"calculator",label:"多功能计算器",icon:"calculator-1"},{name:"device-info",label:"程序设备信息",icon:"device"}]};export{e as b};
